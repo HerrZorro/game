@@ -1,0 +1,15 @@
+package basic;
+
+/**
+ * This comment is known as a Javadoc comment and can be used to create a
+ * document that describes anything you wish to include about your code.
+ * 
+ * This class will be the entry-point for starting the game. The name of this
+ * class is entirely arbitrary, but I've chosen it to be clear when reading.
+ * 
+ * I have set up this project to enforce some coding standards whenever you
+ * press Ctrl+S (mostly just formatting)
+ */
+public class EntryPoint {
+
+}
