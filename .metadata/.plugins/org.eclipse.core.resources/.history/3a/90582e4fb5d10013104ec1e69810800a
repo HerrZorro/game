@@ -1,0 +1,11 @@
+'''
+Created on May 1, 2014
+'''
+from game import Mission
+
+def main():
+    runner = Mission.Mission()
+    runner.run()
+
+if __name__ == '__main__':
+    main()

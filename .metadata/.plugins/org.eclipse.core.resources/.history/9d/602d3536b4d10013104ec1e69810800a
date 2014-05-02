@@ -1,0 +1,9 @@
+'''
+Created on May 1, 2014
+'''
+
+def main():
+    runner = MissionRunner()
+
+if __name__ == '__main__':
+    main()
