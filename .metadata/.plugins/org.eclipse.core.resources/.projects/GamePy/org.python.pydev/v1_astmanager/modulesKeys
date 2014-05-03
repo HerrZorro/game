@@ -1,1 +1,4 @@
 MODULES_MANAGER_V2
+game.EntryPoint|C:\Users\BadassExtraordinaire\Documents\GitHub\game\GamePy\game\EntryPoint.py
+game.MissionRunner|C:\Users\BadassExtraordinaire\Documents\GitHub\game\GamePy\game\MissionRunner.py
+game.__init__|C:\Users\BadassExtraordinaire\Documents\GitHub\game\GamePy\game\__init__.py
