@@ -7,9 +7,6 @@ package basic;
  * This class will be the entry-point for starting the game. The name of this
  * class is entirely arbitrary, but I've chosen it to be clear when reading.
  * 
- * I have set up this project to enforce some coding standards whenever you
- * press Ctrl+S (mostly just formatting).
- * 
  * Press the green circle with a white triangle ("play button") to run the code
  * and look for the output in the Console window. You can type directly in the
  * console window, too.
